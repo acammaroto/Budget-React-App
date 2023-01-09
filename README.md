@@ -1,11 +1,7 @@
-## Budgie app
+## Budget React app
 
-Budgie app is a tool to track your expenses and analyze them, built with React and styled with Tailwind css.
-
-## Demo (Desktop only)
-https://budgie-app-yusuflisawi.netlify.app/
-
----
+This app is a tool to track your expenses and analyze them, built with React and styled with Tailwind css.
+It's not responsive. I've been lazy :P You can try to add this feature!
 
 ## Installation
 
